@@ -36,6 +36,7 @@ PCB designed by [Sleepdealer](https://github.com/Sleepdealr/)
 | Daughterboard screws    | [M3 x 0.05mm Thread, 6mm long](https://www.mcmaster.com/92095A179/)|
 | Top O-rings             | [75a 1-13/16"ID x 2" OD x 3/32" CS](https://www.theoringstore.com/store/index.php?main_page=product_info&products_id=3255)|
 | Bottom O-Rings          | [75a 1-5/6"ID X 1-1/2" OD x 3/32" CS](https://www.theoringstore.com/store/index.php?main_page=product_info&products_id=3279)|
+| JST cable               | 75mm |
 
 ## License
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by using these files you agree to abide by this license. 

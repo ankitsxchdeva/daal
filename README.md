@@ -1,7 +1,7 @@
 # Daal
 
 ### [Discord](https://discord.gg/9DHkFw9t5x)
-### [Geekhack](https://geekhack.org/index.php)
+### [Geekhack IC](https://geekhack.org/index.php)
 
 Case designed by [Hali](https://github.com/hali4045)\
 PCB designed by [Sleepdealer](https://github.com/Sleepdealr/)

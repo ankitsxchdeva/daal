@@ -1,5 +1,9 @@
 # Daal
 
+![](photos/1.jpg)
+![](photos/2.jpg)
+![](photos/3.jpg)
+
 ### [Discord](https://discord.gg/9DHkFw9t5x)
 ### [Geekhack IC](https://geekhack.org/index.php)
 

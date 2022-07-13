@@ -5,7 +5,7 @@
 ![](photos/3.jpg)
 
 ### [Discord](https://discord.gg/9DHkFw9t5x)
-### [Geekhack IC](https://geekhack.org/index.php)
+### [Geekhack IC coming eventually](https://geekhack.org/index.php)
 
 Case designed by [hali](https://github.com/hali4045)\
 PCB designed by [Sleepdealer](https://github.com/Sleepdealr/)
